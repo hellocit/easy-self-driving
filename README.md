@@ -62,6 +62,11 @@
 
 * オンオフ制御
 * フィードバック制御
-* 
+* PWM制御
+
+* クルーズコントロール（前方の車両に追従）
+* 3次元ダイナミックマップ
+
+
 ## about deep content
 https://docs.google.com/document/d/1b53TozrU2WYbrG1xgT50B_ULVHhcnVqBn1294RBqsbA/edit#
