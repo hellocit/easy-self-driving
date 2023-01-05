@@ -53,5 +53,15 @@
 * ステアリング制御
 * 安定化制御
 * クルーズコントロール
+
+## 制御技術
+ライントレーサを題材にした制御技術．
+* 制御工学
+    * 古典制御
+    * 現代制御
+
+* オンオフ制御
+* フィードバック制御
+* 
 ## about deep content
 https://docs.google.com/document/d/1b53TozrU2WYbrG1xgT50B_ULVHhcnVqBn1294RBqsbA/edit#
